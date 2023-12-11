@@ -1,5 +1,7 @@
 # R_shiny_histogram_app
 
+<<<<<<< HEAD
+
 Here is a small r shiny app which display a histogram of the number of individuals in a household from a dataset
 
 This is what you are supposed ot do to run this visulization with shiny
